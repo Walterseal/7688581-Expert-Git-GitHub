@@ -57,7 +57,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* **Non spécifié**
+* **Non spécifié moi**
 
 ## License
 
